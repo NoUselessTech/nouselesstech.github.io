@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "The Conflict of Change"
+---
 # The Conflict of Change
 
 ## Agenda 
