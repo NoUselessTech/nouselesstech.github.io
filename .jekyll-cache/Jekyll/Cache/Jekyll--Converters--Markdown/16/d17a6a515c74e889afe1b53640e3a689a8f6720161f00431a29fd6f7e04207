@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-09-08T23:47:07-05:00</updated><id>/feed.xml</id><title type="html">NoUselessTech | Weeding out Useless Tech Information</title><subtitle>Made with &lt;b style=&quot;color: #f45;&quot;&gt;&amp;lt;3&lt;/b&gt;</subtitle><author><name>Connor Peoples</name></author><entry><title type="html">Technology Through People</title><link href="/Technology-through-Peoples/" rel="alternate" type="text/html" title="Technology Through People" /><published>2022-09-08T00:00:00-05:00</published><updated>2022-09-08T00:00:00-05:00</updated><id>/Technology-through-Peoples</id><content type="html" xml:base="/Technology-through-Peoples/"><![CDATA[<p><img src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?w=1200&amp;h=400&amp;fit=crop" alt="Woman with technology symbols projected on her" /></p>
+I"J<p><img src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?w=1200&amp;h=400&amp;fit=crop" alt="Woman with technology symbols projected on her" /></p>
 
 <h2 id="overview">Overview</h2>
 
@@ -51,8 +51,5 @@
 
 <p>If you find yourself trying to affect change and you’re struggling with making progress, identify where you’re getting stuck. If changing the technology is difficult, look at the data to understand what it needs from the tech stack. If your organization is struggling with data, try to identify what information would help business processes. If you’re organization processes are lacking, understand the people who are running the business and identify ways to streamline or enhance the processes.</p>
 
-<p>If you find yourself trying to get people to change to adopt a technology you like, make sure there’s value for the upstream in the model to make it worth their while. Without upstream value, the technology change will need to wait.</p>]]></content><author><name>Connor Peoples</name></author><category term="Leadership" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Hello World</title><link href="/Hello-World/" rel="alternate" type="text/html" title="Hello World" /><published>2022-09-07T00:00:00-05:00</published><updated>2022-09-07T00:00:00-05:00</updated><id>/Hello-World</id><content type="html" xml:base="/Hello-World/"><![CDATA[<p><img src="https://images.pexels.com/photos/1130268/pexels-photo-1130268.jpeg?cs=srgb&amp;dl=pexels-pok-rie-1130268.jpg&amp;fm=jpg&amp;h=500&amp;w=1500&amp;fit=crop" alt="Coastal Overview" /></p>
-
-<h2 id="init-website">Init Website</h2>
-
-<p>Here we go. A website that’s statically generated through Jekyll and hosted for free on GitHub. Works well for my needs at this time. I’m looking forward to learning a new blogging technology that’s not WordPress.</p>]]></content><author><name>Connor Peoples</name></author><category term="Misc" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+<p>If you find yourself trying to get people to change to adopt a technology you like, make sure there’s value for the upstream in the model to make it worth their while. Without upstream value, the technology change will need to wait.</p>
+:ET
