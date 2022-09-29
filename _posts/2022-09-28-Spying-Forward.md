@@ -36,4 +36,4 @@ This one is a little more niche, but I cannot overstate how impactful graph data
 
 ## Disagree?
 
-Well, make your own list! Feel free to keep up the conversation over on twitter with me, @NoUslessTech!
+Well, make your own list! Feel free to keep up the conversation over on twitter with me, @NoUselessTech!
