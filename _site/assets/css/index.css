@@ -2,9 +2,9 @@
 
 @font-face { font-family: 'PT Sans'; src: local("PT Sans Bold"), local("PTSans-Bold"), url("../fonts/PTSans-Bold.woff") format("woff"); font-weight: bold; font-style: normal; }
 
-body { background: #ffffff; color: #212228; font-family: "PT Sans", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif; font-weight: 400; font-size: calc(0.8rem + 0.2vw); line-height: 1.6; margin: 0; min-height: 100vh; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { background: #ffffff; color: #2a363b; font-family: "PT Sans", -apple-system, "Helvetica Neue", "Segoe UI", "Roboto", sans-serif; font-weight: 400; font-size: calc(0.8rem + 0.2vw); line-height: 1.6; margin: 0; min-height: 100vh; -webkit-text-size-adjust: 100%; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-@media (prefers-color-scheme: dark) { body { background: #212228; color: #ffffff; } }
+@media (prefers-color-scheme: dark) { body { background: #ffffff; color: #2a363b; } }
 
 h1, h2, h3, h4, h5, h6 { font-weight: 600; }
 
@@ -18,13 +18,13 @@ a:hover { text-decoration: underline; }
 
 header a, footer a, aside a { color: inherit; }
 
-header time { color: #909194; }
+header time { color: #959b9d; }
 
-hr { border: 1px solid rgba(144, 145, 148, 0.3); margin: 2em 0; }
+hr { border: 1px solid rgba(149, 155, 157, 0.3); margin: 2em 0; }
 
-article:not(:last-of-type) { border-bottom: 1px solid rgba(144, 145, 148, 0.14); }
+article:not(:last-of-type) { border-bottom: 1px solid rgba(149, 155, 157, 0.14); }
 
-blockquote { background: rgba(144, 145, 148, 0.06); border-left: 3px solid rgba(144, 145, 148, 0.9); padding: 1px 1.5em; opacity: .75; }
+blockquote { background: rgba(149, 155, 157, 0.06); border-left: 3px solid rgba(149, 155, 157, 0.9); padding: 1px 1.5em; opacity: .75; }
 
 blockquote, figure { margin: 1em 0; }
 
@@ -34,15 +34,15 @@ li { margin: .25em 0; }
 
 img { border-radius: 2px; max-width: 100%; height: auto; }
 
-table { display: inline-block; max-width: 100%; overflow-y: scroll; border-spacing: 1px; border-radius: 2px; box-shadow: 0 0 0 1px rgba(144, 145, 148, 0.12) inset; }
+table { display: inline-block; max-width: 100%; overflow-y: scroll; border-spacing: 1px; border-radius: 2px; box-shadow: 0 0 0 1px rgba(149, 155, 157, 0.12) inset; }
 
-th, td { padding: .5em 1em; box-shadow: 0 0 0 1px rgba(144, 145, 148, 0.12); }
+th, td { padding: .5em 1em; box-shadow: 0 0 0 1px rgba(149, 155, 157, 0.12); }
 
-tr:hover, tr:nth-child(odd) td { background: rgba(144, 145, 148, 0.04); }
+tr:hover, tr:nth-child(odd) td { background: rgba(149, 155, 157, 0.04); }
 
-pre { background: rgba(144, 145, 148, 0.12); border-radius: 2px; font-size: .8em; margin: 1.5em 0; padding: .8em 1.2em; overflow-x: auto; }
+pre { background: rgba(149, 155, 157, 0.12); border-radius: 2px; font-size: .8em; margin: 1.5em 0; padding: .8em 1.2em; overflow-x: auto; }
 
-:not(pre) > code { font-size: .9em; background: rgba(144, 145, 148, 0.15); opacity: .7; border-radius: 2px; margin: 0 .1em; padding: .2em .4em; }
+:not(pre) > code { font-size: .9em; background: rgba(149, 155, 157, 0.15); opacity: .7; border-radius: 2px; margin: 0 .1em; padding: .2em .4em; }
 
 body { display: flex; flex-direction: column; }
 
@@ -74,7 +74,7 @@ nav a { margin: .5em 1.2em; }
 
 .icon { height: 1em; width: 1em; fill: currentColor; transition: .2s color; vertical-align: middle; margin-bottom: .15em; }
 
-a:hover .icon { color: #909194; }
+a:hover .icon { color: #959b9d; }
 
 .full table { display: table; width: 100%; }
 
@@ -84,7 +84,7 @@ a:hover .icon { color: #909194; }
 
 .rouge-table .gl pre { margin: 0 1.5em 0 .25em; opacity: .5; }
 
-.highlight pre { background: rgba(47, 48, 57, 0.9); color: white; }
+.highlight pre { background: rgba(55, 70, 77, 0.9); color: white; }
 
 .highlight .c { color: #a29f90; }
 
@@ -166,8 +166,8 @@ a:hover .icon { color: #909194; }
 
 @media (min-width: 40em) { body > header, body > article, body > footer { padding: 1.75em calc(40% - 17em); } }
 
-body > header { box-shadow: 0 0 0.6em rgba(33, 34, 40, 0.04); border-bottom: 1px solid rgba(144, 145, 148, 0.14); }
+body > header { box-shadow: 0 0 0.6em rgba(42, 54, 59, 0.04); border-bottom: 1px solid rgba(149, 155, 157, 0.14); }
 
-body > footer { box-shadow: 0 0 0.6em rgba(33, 34, 40, 0.04) inset; border-top: 1px solid rgba(144, 145, 148, 0.14); opacity: .9; }
+body > footer { box-shadow: 0 0 0.6em rgba(42, 54, 59, 0.04) inset; border-top: 1px solid rgba(149, 155, 157, 0.14); opacity: .9; }
 
 /*# sourceMappingURL=index.css.map */

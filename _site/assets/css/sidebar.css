@@ -6,15 +6,15 @@ body > header, body > footer { display: none; }
 
 body > article { margin: 0 5em; padding: 2em 0; max-width: 50em; }
 
-aside { display: block !important; position: fixed; overflow: auto; background: #1c1d22; color: #fff; padding: 2.25em; width: 12em; top: 0; bottom: 0; left: 0; }
+aside { display: block !important; position: fixed; overflow: auto; background: #fecea8; color: #2a363b; padding: 2.25em; width: 12em; top: 0; bottom: 0; left: 0; }
 
-article header h1 { font-size: 2em; }
+article header h1 { color: #fec08f; font-size: 2em; }
 
 nav { margin: 0 -2.25em; }
 
 nav a { display: block; margin: 0; padding: .5em 2.25em; }
 
-nav a:hover, nav a.selected { background: #26272e; text-decoration: inherit; }
+nav a:hover, nav a.selected { background: #fed4b2; text-decoration: inherit; }
 
 .icon { margin-right: 1.2em; color: inherit !important; }
 
