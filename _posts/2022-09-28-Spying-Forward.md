@@ -8,7 +8,7 @@ categories: Rants
 
 ## Crystal Ball Time
 
-Humans, being completely awful at predictions, love to make, read, and debate potential future outcomes. In this spirit, I present to you the areas of you should research now that should pay off longer term in cyber security. I am not a lawyer, so please take all my opinions at your own risk. Consult your doctor before making any dietary changes.
+Humans, being completely awful at predictions, love to make, read, and debate potential future outcomes. In this spirit, I present to you areas of research that should pay off long term in cyber security. I am not a lawyer, so please take all my opinions at your own risk. Consult your doctor before making any dietary changes.
 
 ## Assumptions
 
@@ -24,7 +24,7 @@ Some assumptions that I'm operating on need to be addressed.
 
 ### Cross-Cloud Integrations
 
-This isn't new, but the amount of integrations between cloud platfroms will only continue. Stay up to date on different low/no code environments, business intelligence services, and especially the security controls they provide. SaaS solutions will continue to make it easier for businesses to own zero infrastructure and fully leverage cloud automation tools to conduct their business. 
+This isn't new, but the amount of integrations between cloud platfroms will only increase. Stay up to date on different low/no code environments, business intelligence services, and especially the security controls they provide. SaaS solutions will continue to make it easier for businesses to own zero infrastructure and fully leverage cloud automation tools to conduct their business. 
 
 ### Attack Surface Management
 
