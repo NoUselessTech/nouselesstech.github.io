@@ -1,8 +1,12 @@
 ---
-title: "About"
-permalink: "/about/"
-layout: page
+title: "Home"
+permalink: "/home/"
+layout: default
 ---
+
+<img src="/headerLogo.svg" style="width: auto; height: 200px;" />
+
+## About
 
 NoUselessTech is a Minnesota registered non-profit organization focused on assisting rural communities with tech enablement. Our mission covers helping individuals use their own technology or learning about new technologies. Our current work is based out of Madison, MN within the Madison Mercantile. 
 

@@ -168,9 +168,11 @@ html { background: #e1e7e9; padding: 0 calc(38% - 22em); }
 
 body { box-shadow: 0 0 0.3em #d2dbdf; }
 
+body > article { background: rgba(255, 255, 255, 0.8); padding: 3em; }
+
 body > header, body > footer { background: #35444a; color: #ffffff; }
 
-@media (min-width: 32em) { body > header, body > article, body > footer { padding: 1.75em calc(22% - 6em); } }
+@media (min-width: 32em) { body > header, body > article, body > footer { padding: 3em; } }
 
 @media (prefers-color-scheme: dark) { body, body > header, body > footer { box-shadow: 0 0 0 1px #3b4c53; } html, body > header, body > footer { background: #2a363b; } }
 

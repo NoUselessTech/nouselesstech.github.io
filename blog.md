@@ -1,10 +1,14 @@
+---
+layout: page
+title: "Blog"
+---
+
 {%- assign posts = paginator.posts | default: site.posts -%}
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
     {{ post.content | truncatewords: 50 }}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
-  </article>
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}

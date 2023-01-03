@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>Hello World | NoUselessTech | Weeding out Useless Tech Information</title>
+<title>Home | NoUselessTech | Weeding out Useless Tech Information</title>
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="author" content="Connor Peoples">
 <meta name="generator" content="Jekyll v4.2.2">
-<link rel="canonical" href="http://localhost:4000/Hello-World/">
+<link rel="canonical" href="http://localhost:4000/index.html.bak">
 
 <link rel="stylesheet" href="/assets/css/frame.css">
 
@@ -49,20 +49,36 @@
 
 </header>
 
-<article>
-  <header>
-  <h1><a href="/Hello-World/">Hello World</a></h1><time datetime="2022-09-07T00:00:00-05:00">September 07, 2022</time>
-</header>
 
-  <p><img src="https://images.pexels.com/photos/1130268/pexels-photo-1130268.jpeg?cs=srgb&amp;dl=pexels-pok-rie-1130268.jpg&amp;fm=jpg&amp;h=500&amp;w=1500&amp;fit=crop" alt="Coastal Overview" /></p>
+  ---
+title: "Home"
+permalink: "/home/"
+layout: default
+---
 
-<h2 id="init-website">Init Website</h2>
+<img src="/headerLogo.svg" style="width: auto; height: 200px;" />
 
-<p>Here we go. A website that’s statically generated through Jekyll and hosted for free on GitHub. Works well for my needs at this time. I’m looking forward to learning a new blogging technology that’s not WordPress.</p>
+## About
+
+NoUselessTech is a Minnesota registered non-profit organization focused on assisting rural communities with tech enablement. Our mission covers helping individuals use their own technology or learning about new technologies. Our current work is based out of Madison, MN within the Madison Mercantile. 
+
+## What We Do
+
+- Monthly Tech Clinics: Bring in your technical issues for support.
+- Private Lessons: Learn more about computer basics, programming, or security.
+- Group Lessons: Providing classes to groups.
+- Technology Shopping: Get expert input on your next tech purchase.
+- Home visits: Have on site support to help you with your tech.
+
+## Payment model
+
+We are a built around a "pay what you can" model with a suggested donation of $50/hr for standard services. We understand that technology is important in modern living and don't want costs to get in the way where possible. All donations will be used to enhance services offered.
+
+## Founder
+
+Connor Peoples is based out of Minnesota, USA in the middle of nowhere. He's got four kids, three dogs, a clowder of cats, and a failing homestead. Technology is his life long passion.
 
 
-  
-</article>
 
 
 
