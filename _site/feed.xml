@@ -1,4 +1,125 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-01-03T00:31:27-06:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NoUselessTech | Weeding out Useless Tech Information</title><subtitle>Made with &lt;b style=&quot;color: #f45;&quot;&gt;&amp;lt;3&lt;/b&gt;</subtitle><author><name>Connor Peoples</name></author><entry><title type="html">Spying Forward</title><link href="http://localhost:4000/Spying-Forward/" rel="alternate" type="text/html" title="Spying Forward" /><published>2022-09-28T00:00:00-05:00</published><updated>2022-09-28T00:00:00-05:00</updated><id>http://localhost:4000/Spying-Forward</id><content type="html" xml:base="http://localhost:4000/Spying-Forward/"><![CDATA[<p><img src="https://images.pexels.com/photos/12648594/pexels-photo-12648594.jpeg?cs=srgb&amp;dl=pexels-pok-rie-1130268.jpg&amp;fm=jpg&amp;h=500&amp;w=1500&amp;fit=crop" alt="Coastal Overview" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-03-18T23:58:57-05:00</updated><id>/feed.xml</id><title type="html">No Useless Tech</title><subtitle>Madison, MN | 320-841-2389</subtitle><author><name>Connor Peoples</name></author><entry><title type="html">Projecting Projects</title><link href="/Project-Scoping/" rel="alternate" type="text/html" title="Projecting Projects" /><published>2023-02-17T00:00:00-06:00</published><updated>2023-02-17T00:00:00-06:00</updated><id>/Project-Scoping</id><content type="html" xml:base="/Project-Scoping/"><![CDATA[<p><img src="https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=500&amp;w=1500&amp;fit=crop" alt="Busy table top" /></p>
+
+<h2 id="projecting-projects">Projecting Projects</h2>
+
+<p>Project management organizations (PMO). Project Manager. Gannt Chart. For some these are trigger words from a work related trauama. For others, these are central elements to every day living. Love it or hate it, knowing how to manage a project and can be the difference between wasting time and achieving your goals. In this post, we cover some of the basic information you’ll need to plan out a project.</p>
+
+<h2 id="the-phases-of-a-project">The phases of a project</h2>
+
+<p>In traditional PMO doctrine, projects follow a distinct series of phases.</p>
+
+<ul>
+  <li>Initiation</li>
+  <li>Planning</li>
+  <li>Execution</li>
+  <li>Performance and Monitoring</li>
+  <li>Closure</li>
+</ul>
+
+<h2 id="initiation">Initiation</h2>
+
+<p>Initiation marks the first steps of building out a new project for your organization. In this steps, you are looking to identify key stake holders and define what your expected outcome(s) are for the initiative. In this step, avoid solutioning for the outcome and rather focus on the business functions you want to deliver or change as a result. Let the actual solutioning come afterwards.</p>
+
+<blockquote>
+  <p><em>*Stake Holder*: Someone who has significant influence on the project and is required to provide input on final delivery.</em></p>
+</blockquote>
+
+<p>As you start to define what you want to do, it can also be really important to lay out what you will not do. This creates some of your first artifacts for the projects:</p>
+
+<ul>
+  <li>In scope objectives</li>
+  <li>Out of scope objectives</li>
+</ul>
+
+<p>In addition to meeting with the key stake holders, conducting surveys of impacted users can help identify current sentiment towards a problem your project is trying to address. Again, focus more on the issues people are experiencing and avoid creating solutions pre-maturely. We’re still trying to gather data at this stage.</p>
+
+<p>If at the end of initiation it is clear what you will deliver and who should be involved along the way, then you can move forward. If you are struggling to find clarity or cohesion amongst the stakeholders, you may want to delay moving on to the planning stages.</p>
+
+<p>Key deliverables during this stage:</p>
+
+<ul>
+  <li>Identification of Stakeholders</li>
+  <li>Project Scoping</li>
+  <li>Collection of feedback</li>
+</ul>
+
+<h2 id="planning">Planning</h2>
+
+<p>With some of the initial work completed of identifying what you will and won’t do and collected input from critical parties, it’s time to start planning. Here you start the work of identifying the kinds of skills, budget, and timeline the project will need to be successful. This can be a good time to start doing market research, evaluate any existing tools, and frame a high level design of a solution.</p>
+
+<p>In this phase, it is critical to avoid gold plating which will distract from the solution. While it is tempting to add featuers or capabilities in anticipation of future needs, it can delay delivery of technologies which have more immediate impact. As much as possible, stay in strict adherence to the scoped outcomes and features.</p>
+
+<blockquote>
+  <p><em>Gold Plating: Adding additional features or capabilities that were not in the initial scope of project.</em></p>
+</blockquote>
+
+<p>Key deliverables during this stage:</p>
+<ul>
+  <li>High level architectural documents</li>
+  <li>Cross organizational RACI</li>
+  <li>Project requirements (non-functional and functional)</li>
+  <li>Budget</li>
+  <li>Timeline</li>
+  <li>Project resources (people)</li>
+</ul>
+
+<h2 id="execution">Execution</h2>
+
+<p>Now that the budget, objectives, and designs are approved at a high level, its time to do something! There are a number of ways to keep track of the work with Agile being a fairly mainstream method of delivering many projects today. Waterfall style projects are also still of high value in the right situation, and the pros and cons are the subject of a future blog. In any case, bringin in your project team and increasing awareness of your projects objectives is important in this stage.</p>
+
+<p>During execution, there are typically a few sub phases worth reviewing.</p>
+
+<ul>
+  <li>Solution Selection</li>
+  <li>Proof of Concept(s)</li>
+  <li>Limited Release</li>
+  <li>Full Release</li>
+</ul>
+
+<h3 id="solution-selection">Solution Selection</h3>
+
+<p>With your team assembled, you can start evaluating different market (or internal) solutions against the scopes and requirements laid out in earlier stages. This is a great time to pepper people with questions and the right time to make sure all I’s are dotted and T’s crossed. Never feel bad for asking a question during this phase.</p>
+
+<h3 id="proof-of-concepts">Proof of Concept(s)</h3>
+
+<p>With selection(s) done, it’s time to move to proof of concept. In this stage, you create an internal implementation that’s primarily accessible by the project team and maybe the stake holders. Use this phase to validate expectations against the project requirements and evaluate the user experience. The focus for delivery here is to prove the value, not to fully polish it.</p>
+
+<h3 id="limited-release">Limited Release</h3>
+
+<p>After the PoC is complete with approval by stake holders, the project moves towards a limited release. In this phase, the technology should be proven, but there may be integrations and business processes to implement to ensure proper adoption in later stages. As you near the release, slowly gathering broaded user feedback gives you time to make critical UX changes before going to mass adoption.</p>
+
+<blockquote>
+  <p><em>User eXperience: User Experience is the interactions with a business process which may include both technical and non-technical elements.</em></p>
+</blockquote>
+
+<h3 id="full-release">Full Release</h3>
+
+<p>At full release, your business processes should be in place and your team prepared to take on waves of new questions and challenges. Almost all projects learn about things they hadn’t considered at this phase and that’s OK. Just use this time to track opportunities for improvement and move quickly to ensure general user adoption is good. Projects that manage this time well leave a good impression on the user base and avoid long term resistance from end users.</p>
+
+<h2 id="performance--monitoring">Performance &amp; Monitoring</h2>
+
+<p>At this point, the project assesses the project outcomes against the original business scopes laid out in the first stage. This period of time can last for various amounts of time depending on the scale of the organization and number of issues. Assuming all previous stages were taken care of appropriately (and you didn’t jump the gun on release), then this should be mostly winding down any special support ramp up that was done to cover initial release.</p>
+
+<p>Key deliverables during this stage:</p>
+<ul>
+  <li>Metrics</li>
+  <li>Operational support requirements</li>
+</ul>
+
+<h2 id="closure">Closure</h2>
+
+<p>You did it! At closure, you focus on closing out any budget work, getting stake holder approval, and ensuring all appropriate documentation has been wrapped up and published for future refernce. It’s easy to let this stage be swept under the rug which can result in loose ends in the PMO over the long haul. Don’t let it happen.</p>
+
+<p>Key deliverables during this stage:</p>
+<ul>
+  <li>Celebration</li>
+  <li>Completed documentation</li>
+  <li>Approvals</li>
+</ul>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Knowing the phases of a project and managing the expectations along the way is super critical for success. With these guidelines, you should have a good understanding of the five phases of a project life cycle and what kind of deliverables each stage will require. It’s very likely your organization will take different approaches to the work, but in general the terms and direction here will loosely fit.</p>]]></content><author><name>Connor Peoples</name></author><category term="Project" /><category term="Management" /><summary type="html"><![CDATA[Projecting Projects Project management organizations (PMO). Project Manager. Gannt Chart. For some these are trigger words from a work related trauama. For others, these are central elements to every day living. Love it or hate it, knowing how to manage a project and can be the difference between wasting time and achieving your goals. In this post, we cover some of the basic information you’ll need to plan out a project. The phases of a project In traditional PMO doctrine, projects follow a distinct series of phases. Initiation Planning Execution Performance and Monitoring Closure Initiation Initiation marks the first steps of building out a new project for your organization. In this steps, you are looking to identify key stake holders and define what your expected outcome(s) are for the initiative. In this step, avoid solutioning for the outcome and rather focus on the business functions you want to deliver or change as a result. Let the actual solutioning come afterwards. *Stake Holder*: Someone who has significant influence on the project and is required to provide input on final delivery. As you start to define what you want to do, it can also be really important to lay out what you will not do. This creates some of your first artifacts for the projects: In scope objectives Out of scope objectives In addition to meeting with the key stake holders, conducting surveys of impacted users can help identify current sentiment towards a problem your project is trying to address. Again, focus more on the issues people are experiencing and avoid creating solutions pre-maturely. We’re still trying to gather data at this stage. If at the end of initiation it is clear what you will deliver and who should be involved along the way, then you can move forward. If you are struggling to find clarity or cohesion amongst the stakeholders, you may want to delay moving on to the planning stages. Key deliverables during this stage: Identification of Stakeholders Project Scoping Collection of feedback Planning With some of the initial work completed of identifying what you will and won’t do and collected input from critical parties, it’s time to start planning. Here you start the work of identifying the kinds of skills, budget, and timeline the project will need to be successful. This can be a good time to start doing market research, evaluate any existing tools, and frame a high level design of a solution. In this phase, it is critical to avoid gold plating which will distract from the solution. While it is tempting to add featuers or capabilities in anticipation of future needs, it can delay delivery of technologies which have more immediate impact. As much as possible, stay in strict adherence to the scoped outcomes and features. Gold Plating: Adding additional features or capabilities that were not in the initial scope of project. Key deliverables during this stage: High level architectural documents Cross organizational RACI Project requirements (non-functional and functional) Budget Timeline Project resources (people) Execution Now that the budget, objectives, and designs are approved at a high level, its time to do something! There are a number of ways to keep track of the work with Agile being a fairly mainstream method of delivering many projects today. Waterfall style projects are also still of high value in the right situation, and the pros and cons are the subject of a future blog. In any case, bringin in your project team and increasing awareness of your projects objectives is important in this stage. During execution, there are typically a few sub phases worth reviewing. Solution Selection Proof of Concept(s) Limited Release Full Release Solution Selection With your team assembled, you can start evaluating different market (or internal) solutions against the scopes and requirements laid out in earlier stages. This is a great time to pepper people with questions and the right time to make sure all I’s are dotted and T’s crossed. Never feel bad for asking a question during this phase. Proof of Concept(s) With selection(s) done, it’s time to move to proof of concept. In this stage, you create an internal implementation that’s primarily accessible by the project team and maybe the stake holders. Use this phase to validate expectations against the project requirements and evaluate the user experience. The focus for delivery here is to prove the value, not to fully polish it. Limited Release After the PoC is complete with approval by stake holders, the project moves towards a limited release. In this phase, the technology should be proven, but there may be integrations and business processes to implement to ensure proper adoption in later stages. As you near the release, slowly gathering broaded user feedback gives you time to make critical UX changes before going to mass adoption. User eXperience: User Experience is the interactions with a business process which may include both technical and non-technical elements. Full Release At full release, your business processes should be in place and your team prepared to take on waves of new questions and challenges. Almost all projects learn about things they hadn’t considered at this phase and that’s OK. Just use this time to track opportunities for improvement and move quickly to ensure general user adoption is good. Projects that manage this time well leave a good impression on the user base and avoid long term resistance from end users. Performance &amp; Monitoring At this point, the project assesses the project outcomes against the original business scopes laid out in the first stage. This period of time can last for various amounts of time depending on the scale of the organization and number of issues. Assuming all previous stages were taken care of appropriately (and you didn’t jump the gun on release), then this should be mostly winding down any special support ramp up that was done to cover initial release. Key deliverables during this stage: Metrics Operational support requirements Closure You did it! At closure, you focus on closing out any budget work, getting stake holder approval, and ensuring all appropriate documentation has been wrapped up and published for future refernce. It’s easy to let this stage be swept under the rug which can result in loose ends in the PMO over the long haul. Don’t let it happen. Key deliverables during this stage: Celebration Completed documentation Approvals Conclusion Knowing the phases of a project and managing the expectations along the way is super critical for success. With these guidelines, you should have a good understanding of the five phases of a project life cycle and what kind of deliverables each stage will require. It’s very likely your organization will take different approaches to the work, but in general the terms and direction here will loosely fit.]]></summary></entry><entry><title type="html">Spying Forward</title><link href="/Spying-Forward/" rel="alternate" type="text/html" title="Spying Forward" /><published>2022-09-28T00:00:00-05:00</published><updated>2022-09-28T00:00:00-05:00</updated><id>/Spying-Forward</id><content type="html" xml:base="/Spying-Forward/"><![CDATA[<p><img src="https://images.pexels.com/photos/12648594/pexels-photo-12648594.jpeg?cs=srgb&amp;dl=pexels-pok-rie-1130268.jpg&amp;fm=jpg&amp;h=500&amp;w=1500&amp;fit=crop" alt="Coastal Overview" /></p>
 
 <h2 id="crystal-ball-time">Crystal Ball Time</h2>
 
@@ -32,7 +153,7 @@
 
 <h2 id="disagree">Disagree?</h2>
 
-<p>Well, make your own list! Feel free to keep up the conversation over on twitter with me, @NoUselessTech!</p>]]></content><author><name>Connor Peoples</name></author><category term="Rants" /><summary type="html"><![CDATA[Crystal Ball Time Humans, being completely awful at predictions, love to make, read, and debate potential future outcomes. In this spirit, I present to you areas of research that should pay off long term in cyber security. I am not a lawyer, so please take all my opinions at your own risk. Consult your doctor before making any dietary changes. Assumptions Some assumptions that I’m operating on need to be addressed. We will eventually stop talking about the cloud like it’s new. On-Premise solutions will continue to phase out. Machine learning will continue to improve. Cyber insurance will rise in cost and/or restrict coverage. The MSP/Micro-Soc model will continue to take over market. Areas to study Cross-Cloud Integrations This isn’t new, but the amount of integrations between cloud platfroms will only increase. Stay up to date on different low/no code environments, business intelligence services, and especially the security controls they provide. SaaS solutions will continue to make it easier for businesses to own zero infrastructure and fully leverage cloud automation tools to conduct their business. Attack Surface Management Again, not new, but learning how to enumerate and manage the sprawling cloud surface for your organization will be critical. Following the progress of the EASM solutions will be important over the next few years. Graph Databases This one is a little more niche, but I cannot overstate how impactful graph databases have been for me. Knowing graph databases, how to build them, how to use them, etc. will be critical for managing both of the areas above and more. Many tools are really glorified graph databases that take care of many of the easy off the shelf configurations for you. Being able to build your own for threat hunting or identity governance are huge wins to have in your arsenal. Disagree? Well, make your own list! Feel free to keep up the conversation over on twitter with me, @NoUselessTech!]]></summary></entry><entry><title type="html">VPN Rant</title><link href="http://localhost:4000/VPN-Rant/" rel="alternate" type="text/html" title="VPN Rant" /><published>2022-09-27T00:00:00-05:00</published><updated>2022-09-27T00:00:00-05:00</updated><id>http://localhost:4000/VPN-Rant</id><content type="html" xml:base="http://localhost:4000/VPN-Rant/"><![CDATA[<p><img src="https://images.pexels.com/photos/211816/pexels-photo-211816.jpeg?cs=srgb&amp;dl=pexels-pok-rie-1130268.jpg&amp;fm=jpg&amp;h=500&amp;w=1500&amp;fit=crop" alt="Coastal Overview" /></p>
+<p>Well, make your own list! Feel free to keep up the conversation over on twitter with me, @NoUselessTech!</p>]]></content><author><name>Connor Peoples</name></author><category term="Rants" /><summary type="html"><![CDATA[Crystal Ball Time Humans, being completely awful at predictions, love to make, read, and debate potential future outcomes. In this spirit, I present to you areas of research that should pay off long term in cyber security. I am not a lawyer, so please take all my opinions at your own risk. Consult your doctor before making any dietary changes. Assumptions Some assumptions that I’m operating on need to be addressed. We will eventually stop talking about the cloud like it’s new. On-Premise solutions will continue to phase out. Machine learning will continue to improve. Cyber insurance will rise in cost and/or restrict coverage. The MSP/Micro-Soc model will continue to take over market. Areas to study Cross-Cloud Integrations This isn’t new, but the amount of integrations between cloud platfroms will only increase. Stay up to date on different low/no code environments, business intelligence services, and especially the security controls they provide. SaaS solutions will continue to make it easier for businesses to own zero infrastructure and fully leverage cloud automation tools to conduct their business. Attack Surface Management Again, not new, but learning how to enumerate and manage the sprawling cloud surface for your organization will be critical. Following the progress of the EASM solutions will be important over the next few years. Graph Databases This one is a little more niche, but I cannot overstate how impactful graph databases have been for me. Knowing graph databases, how to build them, how to use them, etc. will be critical for managing both of the areas above and more. Many tools are really glorified graph databases that take care of many of the easy off the shelf configurations for you. Being able to build your own for threat hunting or identity governance are huge wins to have in your arsenal. Disagree? Well, make your own list! Feel free to keep up the conversation over on twitter with me, @NoUselessTech!]]></summary></entry><entry><title type="html">VPN Rant</title><link href="/VPN-Rant/" rel="alternate" type="text/html" title="VPN Rant" /><published>2022-09-27T00:00:00-05:00</published><updated>2022-09-27T00:00:00-05:00</updated><id>/VPN-Rant</id><content type="html" xml:base="/VPN-Rant/"><![CDATA[<p><img src="https://images.pexels.com/photos/211816/pexels-photo-211816.jpeg?cs=srgb&amp;dl=pexels-pok-rie-1130268.jpg&amp;fm=jpg&amp;h=500&amp;w=1500&amp;fit=crop" alt="Coastal Overview" /></p>
 
 <h2 id="vpn-a-silver-bullet">VPN, a silver bullet?</h2>
 
@@ -180,7 +301,7 @@ traceroute to google.com (142.250.190.110), 30 hops max, 60 byte packets
 
 <h2 id="summary">Summary</h2>
 
-<p>A VPN is not a silver bullet. It’s a specific tool that provides specific protections that do have use and utility in certain applications. For most people in the West, save your pennies and put your money to a more worthwhile cause.</p>]]></content><author><name>Connor Peoples</name></author><category term="Rants" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Technology Through People</title><link href="http://localhost:4000/Technology-through-Peoples/" rel="alternate" type="text/html" title="Technology Through People" /><published>2022-09-08T00:00:00-05:00</published><updated>2022-09-08T00:00:00-05:00</updated><id>http://localhost:4000/Technology-through-Peoples</id><content type="html" xml:base="http://localhost:4000/Technology-through-Peoples/"><![CDATA[<p><img src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?w=1200&amp;h=400&amp;fit=crop" alt="Woman with technology symbols projected on her" /></p>
+<p>A VPN is not a silver bullet. It’s a specific tool that provides specific protections that do have use and utility in certain applications. For most people in the West, save your pennies and put your money to a more worthwhile cause.</p>]]></content><author><name>Connor Peoples</name></author><category term="Rants" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Technology Through People</title><link href="/Technology-through-Peoples/" rel="alternate" type="text/html" title="Technology Through People" /><published>2022-09-08T00:00:00-05:00</published><updated>2022-09-08T00:00:00-05:00</updated><id>/Technology-through-Peoples</id><content type="html" xml:base="/Technology-through-Peoples/"><![CDATA[<p><img src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?w=1200&amp;h=400&amp;fit=crop" alt="Woman with technology symbols projected on her" /></p>
 
 <h2 id="overview">Overview</h2>
 
@@ -233,7 +354,7 @@ traceroute to google.com (142.250.190.110), 30 hops max, 60 byte packets
 
 <p>If you find yourself trying to affect change and you’re struggling with making progress, identify where you’re getting stuck. If changing the technology is difficult, look at the data to understand what it needs from the tech stack. If your organization is struggling with data, try to identify what information would help business processes. If you’re organization processes are lacking, understand the people who are running the business and identify ways to streamline or enhance the processes.</p>
 
-<p>If you find yourself trying to get people to change to adopt a technology you like, make sure there’s value for the upstream in the model to make it worth their while. Without upstream value, the technology change will need to wait.</p>]]></content><author><name>Connor Peoples</name></author><category term="Leadership" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/Hello-World/" rel="alternate" type="text/html" title="Hello World" /><published>2022-09-07T00:00:00-05:00</published><updated>2022-09-07T00:00:00-05:00</updated><id>http://localhost:4000/Hello-World</id><content type="html" xml:base="http://localhost:4000/Hello-World/"><![CDATA[<p><img src="https://images.pexels.com/photos/1130268/pexels-photo-1130268.jpeg?cs=srgb&amp;dl=pexels-pok-rie-1130268.jpg&amp;fm=jpg&amp;h=500&amp;w=1500&amp;fit=crop" alt="Coastal Overview" /></p>
+<p>If you find yourself trying to get people to change to adopt a technology you like, make sure there’s value for the upstream in the model to make it worth their while. Without upstream value, the technology change will need to wait.</p>]]></content><author><name>Connor Peoples</name></author><category term="Leadership" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Hello World</title><link href="/Hello-World/" rel="alternate" type="text/html" title="Hello World" /><published>2022-09-07T00:00:00-05:00</published><updated>2022-09-07T00:00:00-05:00</updated><id>/Hello-World</id><content type="html" xml:base="/Hello-World/"><![CDATA[<p><img src="https://images.pexels.com/photos/1130268/pexels-photo-1130268.jpeg?cs=srgb&amp;dl=pexels-pok-rie-1130268.jpg&amp;fm=jpg&amp;h=500&amp;w=1500&amp;fit=crop" alt="Coastal Overview" /></p>
 
 <h2 id="init-website">Init Website</h2>
 
