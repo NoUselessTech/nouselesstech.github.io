@@ -1,14 +1,8 @@
----
-title: "Home"
-permalink: "/"
-layout: page
----
-
-<div style="width:200px; margin-left: auto; margin-right:auto;">
+I"æ<div style="width:200px; margin-left: auto; margin-right:auto;">
     <img src="/headerLogo.svg" style="height:200px; width: auto; margin-left: auto; margin-right:auto;" />
 </div>
 
-## Services
+<h2 id="services">Services</h2>
 <style>
     .card{
         min-width: 200px;
@@ -57,7 +51,6 @@ layout: page
     </div>
 
     <div class="card">
-        <img class="cardImage" src="/assets/images/courses.jpg" />
         <h3 class="centerText">Tech Courses</h3>
         <ul>
             <li>Computer Basics</li>
@@ -68,7 +61,6 @@ layout: page
     </div>
 
     <div class="card">
-        <img class="cardImage" src="/assets/images/consult.jpg" />
         <h3 class="centerText">Consultation</h3>
         <ul>
             <li>Automation</li>
@@ -78,10 +70,11 @@ layout: page
     </div>
 </div>
 
-## Mission
+<h2 id="mission">Mission</h2>
 
-No Useless Tech is driven to bring quality tech support, education, and opportunities to rural Minnesota. With great internet, low costs of living, and a slower pace of life rural areas like Madison make the perfect place to launch a business or career in technology. 
+<p>No Useless Tech is driven to bring quality tech support, education, and opportunities to rural Minnesota. With great internet, low costs of living, and a slower pace of life rural areas like Madison make the perfect place to launch a business or career in technology.</p>
 
-## Partnerships
+<h2 id="partnerships">Partnerships</h2>
 
-We have a great partnership with the Madison Art Gallery and Innovation Center. Together we provide a public place where you can drink great coffee, collaborate, and soon we'll have coworking space as well. Visit us in person to check it out!
+<p>We have a great partnership with the Madison Art Gallery and Innovation Center. Together we provide a public place where you can drink great coffee, collaborate, and soon weâ€™ll have coworking space as well. Visit us in person to check it out!</p>
+:ET
