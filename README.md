@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-NoUselessTech is a Minnesota registered non-profit organization focused on assisting rural communities with tech enablement. Our mission covers helping individuals use their own technology or learning about new technologies. Our current work is based out of Madison, MN within the Madison Mercantile. 
+NoUselessTech is a Minnesota registered LLC focused on assisting rural communities with tech enablement. Our mission covers helping individuals use their own technology or learning about new technologies. Our current work is based out of Madison, MN within the Madison Mercantile. 
 
 ## What We Do
 
